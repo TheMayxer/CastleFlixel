@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="espada.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="attack0000" x="0" y="43" width="38" height="19" frameX="2" frameY="1" frameWidth="119" frameHeight="23"/>
+	<SubTexture name="attack0001" x="0" y="27" width="55" height="16" frameX="-8" frameY="-5" frameWidth="119" frameHeight="23"/>
+	<SubTexture name="attack0002" x="0" y="0" width="123" height="27" frameX="2" frameY="2" frameWidth="119" frameHeight="23"/>
+</TextureAtlas>
